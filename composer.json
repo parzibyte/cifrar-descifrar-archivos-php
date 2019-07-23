@@ -1,0 +1,15 @@
+{
+    "name": "parzibyte/encriptar-php",
+    "description": "Demostraci\u0000n para encriptar y desencriptar con PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luis Cabrera Benito",
+            "email": "parzibyte@gmail.com"
+        }
+    ],
+    "require": {
+        "defuse/php-encryption": "^2.2"
+    }
+}
