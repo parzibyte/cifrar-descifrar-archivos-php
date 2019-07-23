@@ -1,11 +1,11 @@
 
-# cifrar-descifrar-php
+# Cifrar y descifrar archivos con PHP
 
-Cifrar y descifrar datos con PHP usando la librería php-encryption; cifrar con clave general o con claves generadas por contraseñas de usuarios
+Cifrar y descifrar archivos con PHP usando la librería php-encryption; cifrar con clave general o con contraseñas de usuarios
 
 # Tutorial
 
-https://parzibyte.me/blog/2019/07/19/cifrar-descifrar-informacion-php/
+https://parzibyte.me/blog/2019/07/23/cifrar-archivos-php/
 
 # Requisitos
 ## PHP
@@ -20,7 +20,8 @@ https://parzibyte.me/blog/2019/07/19/cifrar-descifrar-informacion-php/
 # Archivos
 Los archivos clave.txt, cifrar.php y descifrar.php tienen que ver con el cifrado con una clave general para todos
 
-Los otros archivos cifran y descifran con una clave generada a través de la contraseña del usuario
+Los otros archivos cifran y descifran con una contraseña del usuario
+
 # Clonar
 Clona o descarga el repositorio en la carpeta de tu servidor web
 
