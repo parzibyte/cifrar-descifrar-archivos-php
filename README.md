@@ -22,6 +22,8 @@ Los archivos clave.txt, cifrar.php y descifrar.php tienen que ver con el cifrado
 
 Los otros archivos cifran y descifran con una contraseña del usuario
 
+*Los archivos de JavaScript e imágenes son para ilustrar el cifrado, no tienen nada que ver con este código*
+
 # Clonar
 Clona o descarga el repositorio en la carpeta de tu servidor web
 
